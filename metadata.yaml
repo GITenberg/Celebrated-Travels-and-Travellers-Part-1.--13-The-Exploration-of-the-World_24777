@@ -45,6 +45,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24777#Celebrated-Travels-and-Travellers-Part-1.--13-The-Exploration-of-the-World
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-03-07'
 gutenberg_type: Text
